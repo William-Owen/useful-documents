@@ -94,3 +94,8 @@ Frameworks are not good if: -
 - You want clean and elegant markup and a good separation of concerns.
 - Your implementation use case is not specifically catered for by the framework.
 - You want to implement your own design without bloating the codebase.
+
+
+---
+
+This article was written by William Owen and is distributed under the  Apache License: Version 2.0, January 2004 - http://www.apache.org/licenses/
