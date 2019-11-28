@@ -16,7 +16,7 @@ A clean expression of the markup required to implement this component would be a
 <main>
   <section class="contact-card">
 	<img src="myimage.jpg" alt="">
-	<div class="details">
+	<div>
 		<h4>Adam Wathan</h4>
 		<p>Developer at NothingWorks Inc.</p>
 		<button>Message</button>
